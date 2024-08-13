@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Darnell,
 A Junior CompSci student at Georgia Institute of Technology 🐝
-
+</br>
 I'm currently in Atlanta, GA - and I'm currently looking for Summer '25 Internships! 💼
 
 ### Languages:
@@ -18,6 +18,9 @@ I'm currently in Atlanta, GA - and I'm currently looking for Summer '25 Internsh
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+
+### Contact Me:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darnell-chen/)
 
 
 
