@@ -25,7 +25,7 @@ I'm currently in Atlanta, GA - and I'm currently looking for Summer '25 Internsh
 
 
 <br />
-<a href="https://shubham-kumar.com">
+<a href="https://darnellchen.com/">
   <table align="right">
       <tr>
           <td>
