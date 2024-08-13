@@ -1,5 +1,6 @@
 ## Hi there 👋 I'm Darnell,
 A Junior CompSci student at Georgia Institute of Technology 🐝
+
 I'm currently in Atlanta, GA - and I'm currently looking for Summer '25 Internships! 💼
 
 ### Languages:
