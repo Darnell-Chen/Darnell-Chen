@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Darnell,
 A Junior CompSci student at Georgia Institute of Technology 🐝
 </br>
-I'm currently in Atlanta, GA - Looking for a job :) 💼
+Incoming @ Georgia Pacific
 
 ### Languages:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
