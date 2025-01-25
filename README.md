@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Darnell,
 A Junior CompSci student at Georgia Institute of Technology 🐝
 </br>
-Incoming Analyst @ GP
+Incoming Business Analyst @ GP
 
 ### Languages:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
